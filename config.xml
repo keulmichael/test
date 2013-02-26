@@ -4,10 +4,10 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.alunny.amazing"
 version = "1.0.0">
 
-<name>alunnys Amazing App</name>
+<name>Test Camera</name>
 
 <description>
-An Amazing app by alunny
+Test Camera App
 </description>
 
 <author href="http://alunny.github.com"
@@ -22,7 +22,7 @@ Andrew Lunny
 <gap:platform name="blackberry" project="widgets"/>
 </gap:platforms>
 
-<icon src="blurry.png" gap:role="default" />
+<icon src="icone.png" gap:role="default" />
 
     <gap:splash src="weirdo.png" />
 
