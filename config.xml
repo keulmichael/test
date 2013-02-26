@@ -30,8 +30,7 @@ Andrew Lunny
 <feature name="http://api.phonegap.com/1.0/camera"/>
 <feature name="http://api.phonegap.com/1.0/network"/>
 
-<plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
-<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
 
 <!-- sample preference specification -->
 <!-- <preference name="autorotate" value="false" readonly="true"/> -->
