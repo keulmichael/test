@@ -36,3 +36,6 @@ Andrew Lunny
 <!-- <preference name="autorotate" value="false" readonly="true"/> -->
 </widget>
 
+<plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
+<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
