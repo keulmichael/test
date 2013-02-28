@@ -36,6 +36,8 @@ Andrew Lunny
 <feature name="http://api.phonegap.com/1.0/notification"/>
 
 <plugin name="Camera" value="org.apache.cordova.CameraLauncher" />
+<plugin name="Notification" value="org.apache.cordova.Notification"/>
+
 
 
 <!-- sample preference specification -->
